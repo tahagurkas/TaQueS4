@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaQueS4
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java,JavaScript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me tahagurkas41@hotmail.com
 
